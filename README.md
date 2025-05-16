@@ -5,8 +5,8 @@ Analyzing customer buying behaviour of retail sales data through market basket a
 - To analyze the customer behaviour through frequent itemset mining and extract useful data insights through data visualization.
 
 # Dataset Used
-<a href="https://github.com/deepti-chaudhary/Analyzing-Retail-Sales-Data/blob/main/Raw_data.csv">Raw Dataset</a>
-<a href="https://github.com/deepti-chaudhary/Analyzing-Retail-Sales-Data/blob/main/Preprocessed_data.csv">Pre-processed Dataset</a>
+- <a href="https://github.com/deepti-chaudhary/Analyzing-Retail-Sales-Data/blob/main/Raw_data.csv">Raw Dataset</a>
+- <a href="https://github.com/deepti-chaudhary/Analyzing-Retail-Sales-Data/blob/main/Preprocessed_data.csv">Pre-processed Dataset</a>
 
 # Questions (KPIs)
 - What are the top-selling products?
